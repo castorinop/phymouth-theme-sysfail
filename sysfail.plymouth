@@ -1,0 +1,13 @@
+[Plymouth Theme]
+Name=SystemFailure
+Description=A theme designed by castorinop that features a simple system failure message.
+ModuleName=two-step
+
+[two-step]
+ImageDir=/usr/share/plymouth/themes/sysfail
+HorizontalAlignment=.5
+VerticalAlignment=.55
+Transition=none
+TransitionDuration=0.0
+BackgroundStartColor=0x000000
+BackgroundEndColor=0x2f2f2f
